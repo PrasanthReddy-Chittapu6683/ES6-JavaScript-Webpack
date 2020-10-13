@@ -1,0 +1,14 @@
+$body-color: rgb(9, 125, 160);
+$font-color: #fff;
+
+.main-body {
+    font-size: 25px;
+    color: $font-color;
+    background-color: $body-color;
+    padding: 20px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.main-body h1 {
+    text-transform: uppercase;
+}
